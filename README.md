@@ -1,4 +1,4 @@
-### HI there👋🏻, I'm Dhwaj Gupta!!
+<h1 align="center">Hi 👋, I'm Dhwaj Gupta!!</h1>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dhwaj1902.dhwaj1902)
 [![GitHub followers](https://img.shields.io/github/followers/dhwaj1902.svg?style=social&label=Follow)](https://github.com/dhwaj1902?tab=followers)
