@@ -28,8 +28,8 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][cpp]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="Git" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png />][flutter]
-<img align="left" alt="SQL" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png />
-<img align="left" alt="PostgreSQL" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png />
+[<img align="left" alt="SQL" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png />][sql]
+[<img align="left" alt="PostgreSQL" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png />][post]
 <br />
 <br />
 
@@ -53,3 +53,5 @@
 [cpp]: https://www.w3schools.com/cpp/cpp_intro.asp
 [python]: https://www.python.org/
 [flutter]: https://flutter.dev/
+[sql]: https://www.w3schools.com/sql/
+[post]: https://www.postgresql.org/
