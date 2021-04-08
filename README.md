@@ -22,7 +22,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<details>
+<details open>
   <summary>🚀 Languages and Tools</summary>
   <br/>
   <p align="center">
