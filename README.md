@@ -1,14 +1,26 @@
-<h1 align="center">Hi 👋, I'm Dhwaj Gupta!!</h1>
+<h1 align="center">Hi 👋, I'm Dhwaj Gupta 👨‍💻</h1>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dhwaj1902.dhwaj1902)
-[![GitHub followers](https://img.shields.io/github/followers/dhwaj1902.svg?style=social&label=Follow)](https://github.com/dhwaj1902?tab=followers)
+<p align='center'>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhwaj1902.dhwaj1902" />
+  <a href="https://github.com/dhwaj1902?tab=followers">
+  <img src="https://img.shields.io/github/followers/dhwaj1902.svg?style=social&label=Follow" />
+    </a>
+</p>
 
-### Connect with me:
-
-[<img align="left" alt="dhwaj1902 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="dhwaj1902 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dhwaj1902 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="dhwaj1902 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<p align='center'>
+  <a href="https://www.linkedin.com/in/dhwaj-gupta/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https:/twitter.com/dhwaj_gupta">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/dhwajgupta">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/dhwaj.iitr">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
 
 <br />
 
@@ -33,7 +45,9 @@
 <br />
 <br />
 
-![Dhwaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhwaj1902&hide=[%22issues%22,%22contribs%22]&show_icons=true)
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dhwaj1902&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 [twitter]: https://twitter.com/dhwaj_gupta
 [instagram]: https://instagram.com/dhwajgupta
