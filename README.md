@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhwaj Gupta 👨‍💻</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dhwaj Gupta 👨‍💻</h1>
 
 <p align='center'>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dhwaj1902.dhwaj1902" />
@@ -60,4 +60,9 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dhwaj1902&show_icons=true&count_private=true&theme=dark" width="400"></a>
+</p>
+
+
+<p align='center'>
+  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=dhwaj1902&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00"></a>
 </p>
