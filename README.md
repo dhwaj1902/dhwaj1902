@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/57860123/119257369-a0d13400-bbe2-11eb-915b-151b274156a1.gif" width="100%"></img>
+<img src="https://user-images.githubusercontent.com/57860123/119258236-797c6600-bbe6-11eb-877b-30ce9f1d7f40.gif" width="100%"></img>
 
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dhwaj Gupta 👨‍💻</h1> -->
 
