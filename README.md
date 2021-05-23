@@ -1,4 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dhwaj Gupta 👨‍💻</h1>
+<img src="https://user-images.githubusercontent.com/57860123/119257369-a0d13400-bbe2-11eb-915b-151b274156a1.gif" width="100%"></img>
+
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dhwaj Gupta 👨‍💻</h1> -->
 
 <p align='center'>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dhwaj1902.dhwaj1902" />
